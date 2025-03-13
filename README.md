@@ -3,9 +3,9 @@
 I am a frontend developer focused on creating engaging, accessible & performant interfaces
 
 📫 You can follow me or get in touch on:
-* [BlueSky](https://bsky.app/profile/ukqfhf.bsky.social)
 * [Telegram](https://t.me/ukqfhf)
 * [LinkedIn](https://www.linkedin.com/in/daniel-ilich/)
+* * [BlueSky](https://bsky.app/profile/ukqfhf.bsky.social)
 
 ✉️ Or send me a email at d4niel.iv@gmail.com
 
