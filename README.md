@@ -1,4 +1,4 @@
-## 👋 Hi, my name Daniel Ilich
+## 👋 Hi, my name is Daniel Ilich
 
 I am a frontend developer focused on creating engaging, accessible & performant interfaces
 
